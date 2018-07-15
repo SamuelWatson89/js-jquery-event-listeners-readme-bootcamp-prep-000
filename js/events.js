@@ -4,6 +4,6 @@ function getIt() {
 })}
 
 $(document).ready(function(){
-
+  getIt()
 
 });
