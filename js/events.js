@@ -1,5 +1,5 @@
 function getIt(){
-  $('p').addEventListener('click'(alert("hey!"))
+  $('p').addEventListener('click'); alert("hey!")
 }
 
 $(document).ready(function(){
