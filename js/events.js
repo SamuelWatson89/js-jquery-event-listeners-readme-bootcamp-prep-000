@@ -1,6 +1,7 @@
 function getIt(){
-  $('p').onCl(alert("hey!"))
-}
+  $('p').addEventListener('click', function(event) {
+  alert("hey!")
+}}
 
 $(document).ready(function(){
 
