@@ -4,7 +4,9 @@ function getIt() {
 })}
 
 function  frameIt () {
-  $('img').load()
+  $('img').load(function(){
+    .append
+  })
 }
 
 $(document).ready(function(){
